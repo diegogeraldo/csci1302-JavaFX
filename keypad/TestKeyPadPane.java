@@ -39,5 +39,3 @@ public class TestKeyPadPane extends Application {
 		launch(args);
 	}
 }
-
-
